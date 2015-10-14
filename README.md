@@ -7,5 +7,5 @@
 This loads the ssh-agent automatically and imports your private key
 
 ```
-cd; curl https://gist.githubusercontent.com/jirutka/99d57c82fa8981f56fb5/raw/.bashrc > .bashrc
+cd; curl https://raw.githubusercontent.com/eisisig/user-configs/master/.bashrc-windows-ssh > .bashrc
 ```
